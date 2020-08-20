@@ -1,2 +1,3 @@
 # 10Academy
-Interim solution to week 1
+
+This repo contains 10 Academy Weekly Challenges.From Week 1 to Weeek 13.
