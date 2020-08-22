@@ -10,13 +10,10 @@ def home():
     return render_template('index.html')
 
 @app.route('/predict',methods=['POST'])
-def predict():
-
-    int_features = [int(x) for x in request.form.values()]
-    final_features = [np.array(int_features)]
-    prediction = model.predict(final_features)
-
-    output = round(prediction[0], 2)
+def predict_data(data):
+   loaded_model = pickle.load(open(filename, 'rb'))
+   result = loaded_model.predict(data)
+   return ('The predicted sales is {}'.format(result))
 
     return render_template('index.html', prediction_text='Sales should be $ {}'.format(output))
 
