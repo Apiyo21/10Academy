@@ -1,9 +1,12 @@
 # Week 5 
+Find more about the challenge on 10 Academy Batch 3: Week 5 file
 ==============================
 # Main Task 
 Pharmaceutical Sales prediction across multiple stores
 
 Forecasting Sales for Rossmann Pharmaceuticals
+
+Generated a predictive analytics dashboard using tableau :https://public.tableau.com/profile/odeyemi.glory.adenike#!/vizhome/SalesCustomerDashboard/SalesDashboard
 
 Project Organization
 ------------
