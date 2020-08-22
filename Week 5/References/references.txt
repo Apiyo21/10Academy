@@ -1,0 +1,11 @@
+### References
+Loss functions
+Sklearn pipelines
+Merging dataframes
+Introduction to flask
+HTML and CSS
+Time series analysis
+RandomForests
+
+### Kaggle kernels - 
+https://www.kaggle.com/c/rossmann-store-sales/notebooks
